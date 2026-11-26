@@ -1,0 +1,5 @@
+{
+  "head": {"position": [0, 0, 1.66], "orientation_xyzw": [0, 0, 0.258819, 0.965926]},
+  "left": {"position": [0.4, -0.28, 1.14], "orientation_xyzw": [0, 0, 0, 1]},
+  "right": {"position": [-0.34, -0.32, 1.40], "orientation_xyzw": [0, 0, 0, 1]}
+}
